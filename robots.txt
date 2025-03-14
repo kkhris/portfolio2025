@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://youthful-selfie-342947.framer.app/sitemap.xml
+Sitemap: https://lyuchristal.framer.website/sitemap.xml
