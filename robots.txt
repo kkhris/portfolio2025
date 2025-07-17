@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lyuchristal.framer.website/sitemap.xml
+Sitemap: https://imaginative-way-530819.framer.app/sitemap.xml
