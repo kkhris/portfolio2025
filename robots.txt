@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://imaginative-way-530819.framer.app/sitemap.xml
+Sitemap: https://christalyuge.framer.website/sitemap.xml
