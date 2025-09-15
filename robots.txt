@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://christalyuge.framer.website/sitemap.xml
+Sitemap: https://kkchristal.framer.website/sitemap.xml
